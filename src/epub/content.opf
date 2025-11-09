@@ -41,40 +41,38 @@
 		<meta property="term" refines="#subject-3">sh2010116504</meta>
 		<meta property="authority" refines="#subject-4">LCSH</meta>
 		<meta property="term" refines="#subject-4">sh2008108880</meta>
-		<meta property="se:subject">TAG</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<meta property="se:subject">Mystery</meta>
+		<dc:description id="description">A man is accused of theft and an investigator delves into the case.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;Jewels are stolen from a company safe and a letter with the thumb print of a young man is found at the scene of the crime. The evidence seems indisputable and, despite being the owner’s nephew, police arrest the young man and charge him with larceny. But was it an inside job?&lt;/p&gt;
+			&lt;p&gt;Dr. Thorndyke is called to investigate the case. With his medical, scientific, and legal background, he tries to uncover novel evidence to shed a different light on the crime. Dr. Thorndyke is a medical doctor and an expert in legal affairs related to medicine and science. Published in 1907, this book was the first of many Thorndyke detective stories. &lt;a href="https://standardebooks.org/ebooks/r-austin-freeman"&gt;R. Austin Freeman&lt;/a&gt; would go on to write many more.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/11128</dc:source>
-		<dc:source>IA_URL</dc:source>
-		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
+		<dc:source>https://archive.org/details/redthumbmark00free_0</dc:source>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
-		<meta property="se:url.encyclopedia.wikipedia">EBOOK_WIKI_URL</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/r-austin-freeman_the-red-thumb-mark</meta>
 		<dc:creator id="author">R. Austin Freeman</dc:creator>
 		<meta property="file-as" refines="#author">Freeman, R. Austin</meta>
-		<meta property="se:name.person.full-name" refines="#author">CONTRIBUTOR_FULL_NAME</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#author">CONTRIBUTOR_WIKI_URL</meta>
-		<meta property="se:url.authority.nacoaf" refines="#author">CONTRIBUTOR_NACOAF_URI</meta>
+		<meta property="se:name.person.full-name" refines="#author">Dr. Richard Austin Freeman MRCS LSA</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/R._Austin_Freeman</meta>
+		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n50026377</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
-		<dc:contributor id="artist">COVER_ARTIST</dc:contributor>
-		<meta property="file-as" refines="#artist">COVER_ARTIST_SORT</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">COVER_ARTIST_WIKI_URL</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">COVER_ARTIST_NACOAF_URI</meta>
+		<meta property="role" refines="#author" scheme="marc:relators">wpr</meta>
+		<dc:contributor id="artist">Edvard Munch</dc:contributor>
+		<meta property="file-as" refines="#artist">Munch, Edvard</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Edvard_Munch</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n79006348</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Steven desJardins</dc:contributor>
-		<meta property="file-as" refines="#transcriber-1">TRANSCRIBER_SORT</meta>
+		<meta property="file-as" refines="#transcriber-1">desJardins, Steven</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
 		<dc:contributor id="transcriber-2">Distributed Proofreaders</dc:contributor>
-		<meta property="file-as" refines="#transcriber-2">Distributed Proofreaders</meta>
-		<meta property="se:url.homepage" refines="#transcriber-2">https://www.pgdp.net/</meta>
+		<meta property="file-as" refines="#transcriber-2">The Online Distributed Proofreading Team</meta>
 		<meta property="role" refines="#transcriber-2" scheme="marc:relators">trc</meta>
-		<dc:contributor id="producer-1">PRODUCER</dc:contributor>
-		<meta property="file-as" refines="#producer-1">PRODUCER_SORT</meta>
-		<meta property="se:url.homepage" refines="#producer-1">PRODUCER_URL</meta>
+		<dc:contributor id="producer-1">Sean Perkins</dc:contributor>
+		<meta property="file-as" refines="#producer-1">Perkins, Sean</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">blw</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">cov</meta>
