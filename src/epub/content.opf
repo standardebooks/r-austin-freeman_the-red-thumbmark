@@ -69,7 +69,7 @@
 		<meta property="file-as" refines="#transcriber-1">desJardins, Steven</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
 		<dc:contributor id="transcriber-2">Distributed Proofreaders</dc:contributor>
-		<meta property="file-as" refines="#transcriber-2">The Online Distributed Proofreading Team</meta>
+		<meta property="file-as" refines="#transcriber-2">https://www.pgdp.net/</meta>
 		<meta property="role" refines="#transcriber-2" scheme="marc:relators">trc</meta>
 		<dc:contributor id="producer-1">Sean Perkins</dc:contributor>
 		<meta property="file-as" refines="#producer-1">Perkins, Sean</meta>
