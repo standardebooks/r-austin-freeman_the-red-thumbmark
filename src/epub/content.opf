@@ -44,8 +44,8 @@
 		<meta property="se:subject">Mystery</meta>
 		<dc:description id="description">A man is accused of theft and an investigator delves into the case.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;Jewels are stolen from a company safe and a letter with the thumb print of a young man is found at the scene of the crime. The evidence seems indisputable and, despite being the owner’s nephew, police arrest the young man and charge him with larceny. But was it an inside job?&lt;/p&gt;
-			&lt;p&gt;Dr. Thorndyke is called to investigate the case. With his medical, scientific, and legal background, he tries to uncover novel evidence to shed a different light on the crime. Dr. Thorndyke is a medical doctor and an expert in legal affairs related to medicine and science. Published in 1907, this book was the first of many Thorndyke detective stories. &lt;a href="https://standardebooks.org/ebooks/r-austin-freeman"&gt;R. Austin Freeman&lt;/a&gt; would go on to write many more.&lt;/p&gt;
+			&lt;p&gt;Jewels are stolen from a company safe and a letter with the thumbprint of a young man is found at the scene of the crime. The evidence seems indisputable and, despite being the owner’s nephew, police arrest the young man and charge him with larceny. But was it an inside job?&lt;/p&gt;
+			&lt;p&gt;Dr. Thorndyke is called to investigate the case. With his medical, scientific, and legal background, he tries to uncover novel evidence to shed a different light on the crime. Dr. Thorndyke is a medical doctor and an expert in legal affairs related to medicine and science. Published in 1907, this book was the first of many Thorndyke detective &lt;a href="https://standardebooks.org/collections/doctor-thorndyke"&gt;stories&lt;/a&gt;. &lt;a href="https://standardebooks.org/ebooks/r-austin-freeman"&gt;R. Austin Freeman&lt;/a&gt; would go on to write many more.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/11128</dc:source>
