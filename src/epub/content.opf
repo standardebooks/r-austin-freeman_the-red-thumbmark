@@ -27,8 +27,8 @@
 		<meta property="schema:accessibilityFeature">unlocked</meta>
 		<meta property="schema:accessibilityHazard">none</meta>
 		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.2 Level AA.</meta>
-		<dc:title id="title">The Red Thumb Mark</dc:title>
-		<meta property="file-as" refines="#title">Red Thumb Mark, The</meta>
+		<dc:title id="title">The Red Thumbmark</dc:title>
+		<meta property="file-as" refines="#title">Red Thumbmark, The</meta>
 		<dc:subject id="subject-1">Detective and mystery stories</dc:subject>
 		<dc:subject id="subject-2">London (England) -- Fiction</dc:subject>
 		<dc:subject id="subject-3">Thorndyke, Doctor (Fictitious character) -- Fiction</dc:subject>
