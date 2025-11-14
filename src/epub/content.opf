@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/r-austin-freeman/the-red-thumbmark</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2025-11-14T17:49:13Z</dc:date>
+		<meta property="dcterms:modified">2025-11-14T17:49:13Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -29,6 +29,7 @@
 		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.2 Level AA.</meta>
 		<dc:title id="title">The Red Thumbmark</dc:title>
 		<meta property="file-as" refines="#title">Red Thumbmark, The</meta>
+		<meta property="dcterms:alternative" refines="#title">The Red Thumb Mark</meta>
 		<dc:subject id="subject-1">Detective and mystery stories</dc:subject>
 		<dc:subject id="subject-2">London (England) -- Fiction</dc:subject>
 		<dc:subject id="subject-3">Thorndyke, Doctor (Fictitious character) -- Fiction</dc:subject>
@@ -42,16 +43,22 @@
 		<meta property="authority" refines="#subject-4">LCSH</meta>
 		<meta property="term" refines="#subject-4">sh2008108880</meta>
 		<meta property="se:subject">Mystery</meta>
-		<dc:description id="description">A man is accused of theft and an investigator delves into the case.</dc:description>
+		<meta id="collection-1" property="belongs-to-collection">Doctor Thorndyke</meta>
+		<meta property="collection-type" refines="#collection-1">series</meta>
+		<meta property="group-position" refines="#collection-1">1</meta>
+		<meta id="collection-2" property="belongs-to-collection">Haycraft-Queen Cornerstones</meta>
+		<meta property="collection-type" refines="#collection-2">set</meta>
+		<dc:description id="description">A detective struggles to prove the innocence of a man accused of stealing jewels, in the face of overwhelming evidence.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;Jewels are stolen from a company safe and a letter with the thumbprint of a young man is found at the scene of the crime. The evidence seems indisputable and, despite being the owner’s nephew, police arrest the young man and charge him with larceny. But was it an inside job?&lt;/p&gt;
-			&lt;p&gt;Dr. Thorndyke is called to investigate the case. With his medical, scientific, and legal background, he tries to uncover novel evidence to shed a different light on the crime. Dr. Thorndyke is a medical doctor and an expert in legal affairs related to medicine and science. Published in 1907, this book was the first of many Thorndyke detective &lt;a href="https://standardebooks.org/collections/doctor-thorndyke"&gt;stories&lt;/a&gt;. &lt;a href="https://standardebooks.org/ebooks/r-austin-freeman"&gt;R. Austin Freeman&lt;/a&gt; would go on to write many more.&lt;/p&gt;
+			&lt;p&gt;Jewels are discovered stolen from a company safe, and a letter with the thumbprint of the company owner’s nephew is found at the scene of the crime. The evidence seems indisputable, and he’s quickly arrested and charged with larceny. But was it an inside job?&lt;/p&gt;
+			&lt;p&gt;&lt;a href="https://standardebooks.org/collections/doctor-thorndyke"&gt;Dr. Thorndyke&lt;/a&gt; is called to investigate the case. With his medical, scientific, and legal background, he tries to uncover novel evidence that could shed light on the crime.&lt;/p&gt;
+			&lt;p&gt;This novel is the first in the long-running series of detective stories featuring Doctor Thorndyke.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/11128</dc:source>
 		<dc:source>https://archive.org/details/redthumbmark00free_0</dc:source>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">70950</meta>
+		<meta property="se:reading-ease.flesch">68.7</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/r-austin-freeman_the-red-thumbmark</meta>
 		<dc:creator id="author">R. Austin Freeman</dc:creator>
 		<meta property="file-as" refines="#author">Freeman, R. Austin</meta>
@@ -79,6 +86,9 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">Lukas Bystricky</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Bystricky, Lukas</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
