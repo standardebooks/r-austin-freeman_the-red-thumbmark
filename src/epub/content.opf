@@ -57,7 +57,7 @@
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/11128</dc:source>
 		<dc:source>https://archive.org/details/redthumbmark00free_0</dc:source>
-		<meta property="se:word-count">70950</meta>
+		<meta property="se:word-count">70495</meta>
 		<meta property="se:reading-ease.flesch">68.7</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/r-austin-freeman_the-red-thumbmark</meta>
 		<dc:creator id="author">R. Austin Freeman</dc:creator>
