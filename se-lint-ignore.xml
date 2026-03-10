@@ -2,6 +2,7 @@
 <se-lint-ignore>
 	<file path="chapter-13.xhtml">
 		<ignore code="t-041">
+			<line>82</line>
 			<reason>The spacing is correct for a mathematical operation.</reason>
 		</ignore>
 	</file>
