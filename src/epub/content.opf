@@ -49,7 +49,7 @@
 		<meta property="group-position" refines="#collection-1">1</meta>
 		<meta id="collection-2" property="belongs-to-collection">Haycraft-Queen Cornerstones</meta>
 		<meta property="collection-type" refines="#collection-2">set</meta>
-		<dc:abstract>A detective struggles to prove the innocence of a man accused of stealing jewels, in the face of overwhelming evidence.</dc:abstract>
+		<meta property="schema:abstract">A detective struggles to prove the innocence of a man accused of stealing jewels, in the face of overwhelming evidence.</meta>
 		<dc:description>
 			&lt;p&gt;Jewels are discovered stolen from a company safe, and a letter with the thumbprint of the company owner’s nephew is found at the scene of the crime. The evidence seems indisputable, and he’s quickly arrested and charged with larceny. But was it an inside job?&lt;/p&gt;
 			&lt;p&gt;&lt;a href="https://standardebooks.org/collections/doctor-thorndyke"&gt;Dr. Thorndyke&lt;/a&gt; is called to investigate the case. With his medical, scientific, and legal background, he tries to uncover novel evidence that could shed light on the crime.&lt;/p&gt;
