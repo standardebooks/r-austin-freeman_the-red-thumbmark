@@ -65,7 +65,7 @@
 		<link href="https://github.com/standardebooks/r-austin-freeman_the-red-thumbmark" refines="#vcs-repository" rel="schema:codeRepository"/>
 		<dc:creator id="author">R. Austin Freeman</dc:creator>
 		<meta property="file-as" refines="#author">Freeman, R. Austin</meta>
-		<meta property="schema:alternateName" refines="#author">Dr. Richard Austin Freeman MRCS LSA</meta>
+		<meta property="schema:alternateName" refines="#author">Richard Austin Freeman</meta>
 		<link href="https://en.wikipedia.org/wiki/R._Austin_Freeman" refines="#author" rel="schema:sameAs"/>
 		<link href="https://id.loc.gov/authorities/names/n50026377.html" refines="#author" rel="schema:sameAs"/>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
@@ -79,10 +79,12 @@
 		<meta property="file-as" refines="#transcriber-1">desJardins, Steven</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
 		<dc:contributor id="transcriber-2">Distributed Proofreaders</dc:contributor>
-		<meta property="file-as" refines="#transcriber-2">https://www.pgdp.net/</meta>
+		<meta property="file-as" refines="#transcriber-2">Distributed Proofreaders</meta>
+		<link href="https://www.pgdp.net/" refines="#transcriber-2" rel="schema:url"/>
 		<meta property="role" refines="#transcriber-2" scheme="marc:relators">trc</meta>
 		<dc:contributor id="producer-1">Sean Perkins</dc:contributor>
 		<meta property="file-as" refines="#producer-1">Perkins, Sean</meta>
+		<link href="https://github.com/rolomoto" refines="#producer-1" rel="schema:url"/>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">blw</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">cov</meta>
